@@ -13,4 +13,10 @@ body p {
 body ol {
     width:300px;
     font-weight: bold;
+    text-align: center;
+}
+
+body h1 {
+    text-align: center;
+    color: "white";
 }
