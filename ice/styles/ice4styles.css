@@ -1,14 +1,14 @@
 img{
-    width: 25%;
+    width: 15%;
     display: block;
     margin: 0 auto;
+    padding: 10px;
 }
 
 main{
     max-width: 600px;
     margin: 0 auto;
 }
-
 
 
 #next{
@@ -19,9 +19,10 @@ main{
 #top{
     text-align: center;
     color: white;
+    font-family:'Darker Grotesque';
 }
 
-h1:hover{
+#top:hover{
     color:black;
 }
 
@@ -32,9 +33,23 @@ body p{
 }
 
 ol{
+    font-family:'Darker Grotesque';
     width:300px;
     display:table;
     margin: 0 auto;
 }
 
+#quote{
+    text-align: center;
+    color: white;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+footer p{
+    text-align: center;
+    color: black;
+    max-width: 600px;
+    margin: 0 auto;
+}
 
