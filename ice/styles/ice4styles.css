@@ -4,6 +4,16 @@ img{
     margin: 0 auto;
 }
 
+main{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+body h1{
+    text-align: center;
+    color: "white";
+}
+
 .top{
     color: white;
 }
@@ -20,12 +30,8 @@ body p{
 
 ol{
     width:300px;
-    font-weight: bold;
-    text-align: center;
+    display:table;
+    margin: 0 auto;
 }
 
-body h1{
-    text-align: center;
-    color: "white";
-}
 
