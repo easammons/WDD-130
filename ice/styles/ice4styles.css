@@ -6,4 +6,10 @@ img {
 
 body p {
     text-align:center;
+    text-decoration-color: white;
+    
+}
+
+body ol {
+    font-weight: bold;
 }
