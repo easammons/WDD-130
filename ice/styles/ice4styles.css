@@ -9,17 +9,15 @@ main{
     margin: 0 auto;
 }
 
-body h1{
+
+
+#next{
     text-align: center;
-    color: "white";
+    color: white;
 }
 
-body h4{
+#top{
     text-align: center;
-    color: "white";
-}
-
-.top{
     color: white;
 }
 
