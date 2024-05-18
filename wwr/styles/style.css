@@ -1,3 +1,12 @@
+
+.logo{
+    width: 80px;
+}
+
+.icon{
+    width: 80px;
+}
+
 #content{
     max-width: 1600px;
     margin: 0 auto;
@@ -5,9 +14,11 @@
 
 nav a{
     text-align: center;
+    color: rgb(59, 15, 15);
 }
 
 #hero-img{
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -41,14 +52,17 @@ header{
 
 nav a:hover{
     background-color:#c0943d;
+    color:white;
 }
 
 .book, .join{
     background-color:#448359;
+    color: rgb(59, 15, 15);
 }
 
 .book:hover, .join:hover{
     background-color:#c0943d;
+    color: rgb(211, 67, 67);
 }
 
 
@@ -58,4 +72,29 @@ nav a:hover{
 
 footer{
     background-color:#448359;
+    color: rgb(59, 15, 15);
+}
+
+
+.home-title{
+    color:white;
+}
+
+h4{
+    color: white;
+}
+
+
+.msg h2{
+    color:white;
+}
+.msg p{
+    color:white;
+}
+
+footer a{
+    color:black;
+}
+footer a:hover{
+    color:rgb(211, 67, 67);
 }
