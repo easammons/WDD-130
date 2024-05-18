@@ -7,6 +7,10 @@ nav a{
     text-align: center;
 }
 
+#hero-img{
+    margin: 0 auto;
+}
+
 #hero-msg h1, #hero-msg h4{
     text-align: center;
 }
@@ -17,6 +21,7 @@ nav a{
 
 main section{
     text-align: center;
+    margin: 0 auto;
 }
 
 #background {
@@ -30,6 +35,7 @@ body{
 
 header{
     background-color:#448359;
+    text-align: center;
 }
 
 
