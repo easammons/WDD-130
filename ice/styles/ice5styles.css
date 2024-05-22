@@ -1,12 +1,25 @@
 #hero-img{
    width: 100%;
    margin: 0; 
+   font-size: 0;
 }
 
-.lower-grid{
-    width: 15%;
+.circlesbox{
+    background-color: gray;
 }
 
-.desk-img{
+body{
+    font-size: 0;
+}
+
+.circlesbox .circle{
+    width: 20%;
+    border-radius: 50%;
+    border: 20px solid rgb(79, 75, 75);
+    margin: 5%;
+        
+}
+
+/* .circle{
     width: 100%;
-}
+} */
