@@ -23,8 +23,10 @@ nav a{
     margin: 0 auto;
 }
 
+
 #hero-msg h1, #hero-msg h4{
     text-align: center;
+    font-family:'Yesteryear','Lobster', 'sans-serif';
 }
 
 .button-box{
@@ -61,6 +63,7 @@ nav a:hover{
     background-color:#448359;
     color: rgb(59, 15, 15);
     text-decoration: none;
+    font-size: 18px;
 }
 
 .book:hover, .join:hover{
@@ -71,6 +74,7 @@ nav a:hover{
 
 .msg{
     background-color:#448359;
+    line-height: 1.5em;
 }
 
 footer{
@@ -81,6 +85,8 @@ footer{
 
 .home-title{
     color:white;
+    Font-family:'Lobster', "Yesteryear", 'sans-serif';
+    font-size: 2em;
 }
 
 h4{
@@ -93,6 +99,7 @@ h4{
 }
 .msg p{
     color:white;
+    font-size: .8em;
 }
 
 footer a{
