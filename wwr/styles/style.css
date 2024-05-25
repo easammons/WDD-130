@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Yesteryear&display=swap');
 
+
 .logo{
     width: 80px;
 }
@@ -98,6 +99,7 @@ nav a:hover{
     background-color:#8ab56c;
     line-height: 1.5em;
     padding: 35px;
+    font-family:'Roboto Condensed','Lobster', 'sans-serif';
 }
 
 footer{
