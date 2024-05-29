@@ -1,0 +1,30 @@
+
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    text-align: center;
+}
+
+.graybox{
+    width: 100%;
+    background-color: gray;
+    z-index: -1;
+
+}
+
+.title{
+    z-index: 1;
+    grid-column: 1/2;
+    font-size: 200px;
+    position: absolute;
+    top: 25%;
+} 
+
+.subtitle{
+    font-size: 60px;
+    position: absolute;
+    top: 70%;
+    right: 300px;
+}
