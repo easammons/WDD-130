@@ -9,7 +9,7 @@
 
 .graybox{
     width: 100%;
-    background-color: gray;
+    background-color: rgb(168, 168, 168);
     z-index: -1;
 
 }
@@ -17,14 +17,20 @@
 .title{
     z-index: 1;
     grid-column: 1/2;
-    font-size: 200px;
+    font-size: 180px;
     position: absolute;
-    top: 25%;
+    top: 20%;
+    letter-spacing: 0.15em;
+
 } 
 
 .subtitle{
-    font-size: 60px;
+    font-size: 80px;
     position: absolute;
-    top: 70%;
-    right: 300px;
+    top: 65%;
+    right: 200px;
+    color: #951010;
+    letter-spacing: 0.22em;
+    text-align: center;
+
 }
