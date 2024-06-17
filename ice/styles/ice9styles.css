@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+.card{
+    background-color: white;
+}
+
+.headerimage{
+    width: 100%;
+}
+
+.subtitle{
+    text-align: center;
+    color:rgb(73, 73, 152); 
+}
+
+.title{
+    text-align: center;
+}
+.article{
+    padding: 10%;
+    text-align: center;
+    color:rgb(110, 110, 110);
+}
+footer{
+    background-color: rgb(73, 73, 152);
+    color: white;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    text-align: center;
+}
