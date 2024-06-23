@@ -244,6 +244,21 @@ footer .social img{
     padding-top: 15px;
 }
 
+.booking{
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.highlights{
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.encounters{
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
